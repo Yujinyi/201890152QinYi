@@ -4,3 +4,6 @@ data:20news-18828.tar.gz - 20 Newsgroups; duplicates removed, only "From" and "
 knn.py------------------------>>>>>预处理文本数据集，并且得到每个文本的VSM表示。
                                           实现KNN分类器，测试其在20Newsgroups上的效果。
 nbc.py------------------------>>>>>实现朴素贝叶斯分类器，测试其在20 Newsgroups数据集上的效果。
+
+sklearn-clusters-------------->>>>>测试sklearn聚类方法在tweets数据集上的效果，使用NMI评价实验结果
+
